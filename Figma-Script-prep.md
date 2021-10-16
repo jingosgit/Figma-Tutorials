@@ -30,4 +30,4 @@ By the end of the tutorial we will be ready to design something cool in figma.
   - Artboard for Various Designs
   - Artboard for Paper Design
   - Change art from Pixel to CM/MM
-  - Choosing a sample design[Link](https://www.pinterest.com/pin/737323770226260649/visual-search/?x=16&y=16&w=530&h=530&cropSource=6)
+  - Choosing a sample [design](https://www.pinterest.com/pin/737323770226260649/visual-search/?x=16&y=16&w=530&h=530&cropSource=6)
