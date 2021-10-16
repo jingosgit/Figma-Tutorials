@@ -5,6 +5,8 @@ I will show you how to get started with figma by designing
 
 By the end of the tutorial we will be ready to design something cool in figma.
 
-### Figma basics
-- Design basics [Go to](https://github.com/jingosgit/Figma-Tutorials/blob/main/Figma-Script-prep.md)
+## Figma Series
+
+### The basics
+- Read more... [Go to](https://github.com/jingosgit/Figma-Tutorials/blob/main/Figma-Script-prep.md)
 
